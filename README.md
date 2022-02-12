@@ -1,3 +1,3 @@
 # de-tigro-curtain
 For nice guys
-And Misha Loh
+And Nikita Loh
